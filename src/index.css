@@ -1,0 +1,11 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(
+    to right,
+    #444,
+    rgb(120, 189, 189),
+    #f9f9f9,
+    rgb(120, 189, 189),
+    #444
+  );
+}
